@@ -1,5 +1,5 @@
 {
-    "spider":"clan://1tv/18.jar",
+    "spider":"https://raw.githubusercontent.com/lzhmh/jsjar/main/18.jar",
     "sites": [
         {
             "key": "91md",
