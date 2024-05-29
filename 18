@@ -48,10 +48,10 @@
             "filterable": 1
         },
         {
-            "key": "afasu",
-            "name": "6️⃣",
+            "key": "xrb",
+            "name": "6️⃣淫水机",
             "type": 0,
-            "api": "https://www.afasu.com/api/xml.php",
+            "api": "https://www.xrbsp.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -65,32 +65,20 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
-    {
-      "key": "bttcj",
-      "name": "*博天堂",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
-      "playUrl": "https://jx.kujiexi.net/m3u8.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
     {
       "key": "(18+)SS资源",
-      "name": "(18+)SS资源",
+      "name": "8️⃣9️⃣SS资源",
       "type": 0,
       "api": "http://secj8.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
-
         {
-            "key": "xrb",
-            "name": "8️⃣9️⃣0️⃣淫水机",
+            "key": "afasu",
+            "name": "0️⃣",
             "type": 0,
-            "api": "https://www.xrbsp.com/api/xml.php",
+            "api": "https://www.afasu.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
