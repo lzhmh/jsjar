@@ -4,7 +4,7 @@
 
         {
             "key": "hy",
-            "name": "1️⃣",
+            "name": "1️⃣环亚资源",
             "type": 0,
             "api": "http://wmcj8.com/inc/sapi.php",
             "searchable": 1,
@@ -13,7 +13,7 @@
         },
         {
             "key": "bbt",
-            "name": "2️⃣",
+            "name": "2️⃣💞博天堂💞",
             "type": 0,
             "api": "http://bttcj.com/inc/sapi.php",
             "searchable": 1,
@@ -22,7 +22,7 @@
         },
         {
             "key": "msn",
-            "name": "3️⃣",
+            "name": "3️⃣美少女",
             "type": 0,
             "api": "https://www.msnii.com/api/xml.php",
             "searchable": 1,
@@ -31,7 +31,7 @@
         },
         {
             "key": "gdl",
-            "name": "4️⃣",
+            "name": "4️⃣香奶儿",
             "type": 0,
             "api": "https://www.gdlsp.com/api/xml.php",
             "searchable": 1,
@@ -40,7 +40,7 @@
         },
         {
             "key": "kxgav",
-            "name": "5️⃣",
+            "name": "5️⃣白嫖资源",
             "type": 0,
             "api": "https://www.kxgav.com/api/xml.php",
             "searchable": 1,
@@ -58,16 +58,37 @@
         },
         {
             "key": "KpgxdyE",
-            "name": "7️⃣",
+            "name": "7️⃣白嫖资源",
             "type": 0,
             "api": "https://www.pgxdy.com/api/xml.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
+
+    {
+      "key": "bttcj",
+      "name": "*博天堂",
+      "type": 0,
+      "api": "http://bttcj.com/inc/sapi.php",
+      "playUrl": "https://jx.kujiexi.net/m3u8.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "(18+)SS资源",
+      "name": "(18+)SS资源",
+      "type": 0,
+      "api": "http://secj8.com/inc/sapi.php?ac=videolist",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
         {
             "key": "xrb",
-            "name": "8️⃣9️⃣0️⃣",
+            "name": "8️⃣9️⃣0️⃣淫水机",
             "type": 0,
             "api": "https://www.xrbsp.com/api/xml.php",
             "searchable": 1,
