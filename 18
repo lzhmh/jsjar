@@ -84,7 +84,8 @@
             "filterable": 1
         }
     ],
-"lives": [{"name":"30", "type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/123linyao123/TV123/main/%E6%9E%9C%E5%87%8D%E5%82%B3%E5%AA%92.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives": [{"name":"👀", "type":0,"url":"https://gitdl.cn/https://raw.githubusercontent.com/xiongjian83/TvBox/main/gt.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"💋", "type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/123linyao123/TV123/main/%E6%9E%9C%E5%87%8D%E5%82%B3%E5%AA%92.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
      "flags": [
         "youku",
         "qq"
